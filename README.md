@@ -17,3 +17,7 @@ other claims. For example, is there an airline that is known to lose people’s 
 - [Kaggle link](https://www.kaggle.com/datasets/terminal-security-agency/tsa-claims-database)
 - [TSA data link](https://www.dhs.gov/tsa-claims-data)
 - [Tableau dashboard link](https://public.tableau.com/app/profile/gavin.l4103/viz/TSAClaimsDashboard/Story)
+
+### Notes
+- The data from Kaggle is too large to upload to Github, so only my cleaned version is available here.
+- The Tableau dashboard does not contain all the steps taken during the analysis.
